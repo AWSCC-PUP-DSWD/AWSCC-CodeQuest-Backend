@@ -1,5 +1,9 @@
 <h1 align="center">🚀CodeQuest: 30 Days of Backend🚀</h1>
 
+![Static Badge](https://img.shields.io/badge/python-%23ffde56?style=for-the-badge&logo=python&logoColor=gray)
+![Static Badge](https://img.shields.io/badge/flask-%23555?style=for-the-badge&logo=flask&logoColor=white)
+![Static Badge](https://img.shields.io/badge/sqlite3-%23074f6b?style=for-the-badge&logo=sqlite&logoColor=white)
+
 Welcome to **30 Days of Backend**! 🚀 This is an exciting month-long journey that will take you deep into the heart of web development. Whether you're a seasoned coder 🧑‍💻 with years of experience or a curious newbie 🤓 eager to learn, get ready to unlock the secrets of the backend 🔐. We will explore the fundamental principles of Python, databases, APIs, and so much more.
 
 But it's not all theory and technical jargon, we'll put our knowledge to the test by building fun, practical projects 🛠️ that showcase the power of backend development. It's a hands-on learning experience that will not only equip you with valuable skills but also inspire your creativity. So, are you ready to embark on this exciting coding journey with us?
