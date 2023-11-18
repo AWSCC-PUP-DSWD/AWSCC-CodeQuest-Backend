@@ -41,7 +41,7 @@ Use this template to create your own repository with existing directory structur
 ---
 
 
-### 📅 The 30-Day Content:
+### 📅 The 30-Day Content
 
 |<div align='center'><a href='backend/day-01'><img src='backend/assets/test.png' alt='Introduction to Python' width='140px'/></a><h4 align='center'><a href='backend/day-01'>Introduction to Python</a></h4></div> |<div align='center'><a href='backend/day-02'><img src='backend/assets/test.png' alt='Data Types' width='140px'/></a><h4 align='center'><a href='backend/day-02'>Data Types</a></h4></div> |<div align='center'><a href='backend/day-03'><img src='backend/assets/test.png' alt='Conditionals' width='140px'/></a><h4 align='center'><a href='backend/day-03'>Conditionals</a></h4></div> |<div align='center'><a href='backend/day-04'><img src='backend/assets/test.png' alt='Logical Operators' width='140px'/></a><h4 align='center'><a href='backend/day-04'>Logical Operators</a></h4></div> |
 | - | - | - | - |
@@ -51,3 +51,15 @@ Use this template to create your own repository with existing directory structur
 |<div align='center'><a href='backend/day-17'><img src='backend/assets/test.png' alt='HTTP Methods' width='140px'/></a><h4 align='center'><a href='backend/day-17'>HTTP Methods</a></h4></div> |<div align='center'><a href='backend/day-18'><img src='backend/assets/test.png' alt='Query Parameters' width='140px'/></a><h4 align='center'><a href='backend/day-18'>Query Parameters</a></h4></div> |<div align='center'><a href='backend/day-19'><img src='backend/assets/test.png' alt='Request and <br>Response Handling' width='140px'/></a><h4 align='center'><a href='backend/day-19'>Request and <br>Response Handling</a></h4></div> |<div align='center'><a href='backend/day-20'><img src='backend/assets/test.png' alt='Server and Routing' width='140px'/></a><h4 align='center'><a href='backend/day-20'>Server and Routing</a></h4></div> |
 |<div align='center'><a href='backend/day-21'><img src='backend/assets/test.png' alt='Blueprints' width='140px'/></a><h4 align='center'><a href='backend/day-21'>Blueprints</a></h4></div> |<div align='center'><a href='backend/day-22'><img src='backend/assets/test.png' alt='Jinja' width='140px'/></a><h4 align='center'><a href='backend/day-22'>Jinja</a></h4></div> |<div align='center'><a href='backend/day-23'><img src='backend/assets/test.png' alt='REST APIs' width='140px'/></a><h4 align='center'><a href='backend/day-23'>REST APIs</a></h4></div> |<div align='center'><a href='backend/day-24'><img src='backend/assets/test.png' alt='Introduction to SQLite' width='140px'/></a><h4 align='center'><a href='backend/day-24'>Introduction to SQLite</a></h4></div> |
 |<div align='center'><a href='backend/day-25'><img src='backend/assets/test.png' alt='Setting up SQLite in Flask' width='140px'/></a><h4 align='center'><a href='backend/day-25'>Setting up SQLite in Flask</a></h4></div> |<div align='center'><a href='backend/day-26'><img src='backend/assets/test.png' alt='Defining Databases' width='140px'/></a><h4 align='center'><a href='backend/day-26'>Defining Databases</a></h4></div> |<div align='center'><a href='backend/day-27'><img src='backend/assets/test.png' alt='CRUD' width='140px'/></a><h4 align='center'><a href='backend/day-27'>CRUD</a></h4></div> |<div align='center'><a href='backend/day-28'><img src='backend/assets/test.png' alt='FINAL PROJECT' width='140px'/></a><h4 align='center'><a href='backend/day-28'>FINAL PROJECT</a></h4></div> |
+
+
+### ✉️ Submissions
+
+To finish our **CodeQuest: 30 Days of Backend**, you need to submit **3** projects for your completion to be recognized:
+
+    .
+    ├── submission
+    │   ├── mini-project-01     # mini project (day 7)
+    │   ├── mini-project-02     # mini project 2 (day 15)
+    │   ├── final-project       # final project (day 28-30)
+    └── ...
