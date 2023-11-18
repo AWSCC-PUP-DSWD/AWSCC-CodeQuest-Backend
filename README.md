@@ -1,10 +1,69 @@
-<h1 align="center">🚀30 Days of Backend🚀</h1>
+<h1 align="center">🚀CodeQuest: 30 Days of Backend🚀</h1>
 
 Welcome to **30 Days of Backend**! 🚀 This is an exciting month-long journey that will take you deep into the heart of web development. Whether you're a seasoned coder 🧑‍💻 with years of experience or a curious newbie 🤓 eager to learn, get ready to unlock the secrets of the backend 🔐. We will explore the fundamental principles of Python, databases, APIs, and so much more.
 
 But it's not all theory and technical jargon, we'll put our knowledge to the test by building fun, practical projects 🛠️ that showcase the power of backend development. It's a hands-on learning experience that will not only equip you with valuable skills but also inspire your creativity. So, are you ready to embark on this exciting coding journey with us?
 
-<hr>
+---
+
+### 💫 Getting Started
+
+Use this template to create your own repository with existing directory structure and files to participate in our **CodeQuest: 30 Days of Backend**.
+
+1. On GitHub.com, navigate to the main page of this repository and click the **`Use this template`** button.
+
+    <br>
+
+    ![Use this template](assets/1.png)
+
+    <br>
+
+2. Name it with the same name as this repository (*AWSCC-CodeQuest-Backend*), and make it **public**.
+
+    <br>
+
+    ![Alt text](assets/2.png)
+
+    <br>
+
+3. On the lower right, click **`Create repository`**.
+
+    <br>
+
+    ![Alt text](assets/3.png)
+
+    <br>
+
+    and it should generate the repository in your account.
+
+    <br>
+
+    ![Alt text](assets/4.png)
+
+    <br>
+
+4. After creating a repository, copy the repository URL and paste it in our **[CodeQuest Tracker Sheet](https://docs.google.com/spreadsheets/d/1OsXL63ei1HblY7-gXD8uMbSoWdZJlD02mTbrjvcSsNo/edit#gid=0)** in your corresponding row.
+
+    <br>
+
+5. Finally, clone the repository by clicking the **`Code`** button on the top right side of the repository's main page and clicking the **`Open with GitHub Desktop`** button to redirect to your GitHub Desktop application.
+
+    <br>
+
+    ![Alt text](assets/5.png)
+
+    <br>
+
+6. And just click the **`Clone`** button to clone it to your computer.
+
+    <br>
+
+    ![Alt text](assets/6.png)
+
+
+
+---
+
 
 ### 📅 The 30-Day Content:
 
