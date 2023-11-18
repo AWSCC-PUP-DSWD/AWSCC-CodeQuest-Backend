@@ -12,51 +12,27 @@ Use this template to create your own repository with existing directory structur
 
 1. On GitHub.com, navigate to the main page of this repository and click the **`Use this template`** button.
 
-    <br>
-
     ![Use this template](assets/1.png)
-
-    <br>
 
 2. Name it with the same name as this repository (*AWSCC-CodeQuest-Backend*), and make it **public**.
 
-    <br>
-
     ![Alt text](assets/2.png)
-
-    <br>
 
 3. On the lower right, click **`Create repository`**.
 
-    <br>
-
     ![Alt text](assets/3.png)
-
-    <br>
 
     and it should generate the repository in your account.
 
-    <br>
-
     ![Alt text](assets/4.png)
-
-    <br>
 
 4. After creating a repository, copy the repository URL and paste it in our **[CodeQuest Tracker Sheet](https://docs.google.com/spreadsheets/d/1OsXL63ei1HblY7-gXD8uMbSoWdZJlD02mTbrjvcSsNo/edit#gid=0)** in your corresponding row.
 
-    <br>
-
 5. Finally, clone the repository by clicking the **`Code`** button on the top right side of the repository's main page and clicking the **`Open with GitHub Desktop`** button to redirect to your GitHub Desktop application.
-
-    <br>
 
     ![Alt text](assets/5.png)
 
-    <br>
-
 6. And just click the **`Clone`** button to clone it to your computer.
-
-    <br>
 
     ![Alt text](assets/6.png)
 
