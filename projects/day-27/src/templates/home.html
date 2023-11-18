@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/add" method="POST">
+        <h1>Add Books</h1>
+        <div>
+            <label for="addTitle">Title</label>
+            <input type="text" id="addTitle" name="title">
+        </div>
+        <div>
+            <label for="addAuthor">Author</label>
+            <input type="text" id="addAuthor" name="author">
+        </div>
+        <div>
+            <label for="addPublishedYear">Published Year</label>
+            <input type="number" max="2023" id="addPublishedYear" name="published_year">
+        </div>
+        <button type="submit">Add</button>
+    </form>
+
+    <h1>Books</h1>
+    <ul>
+        {% for book in books %}
+        <li data-id={{book.id}} data-title={{book.title}} data-author={{book.author}} data-published-year={{book.published_year}}>
+            {{book.id}} | {{ book.title}} written by {{ book.author}} ({{book.published_year}})
+            <button class="update-btn">Update</button>
+            <button class="delete-btn">Delete</button>
+        </li>
+        {% endfor %}
+    </ul>
+
+    <h1>Update Book</h1>
+    <div>
+        <label for="updateTitle">Title</label>
+        <input type="text" id="updateTitle" name="title">
+    </div>
+    <div>
+        <label for="updateAuthor">Author</label>
+        <input type="text" id="updateAuthor" name="author">
+    </div>
+    <div>
+        <label for="updatePublishedYear">Published Year</label>
+        <input type="number" max="2023" id="updatePublishedYear" name="published_year">
+    </div>
+    <button type="submit" id="updateBookBtn">Update</button>
+
+
+    <script type="text/javascript" src="{{ url_for('static', filename='index.js')}}"></script>
+</body>
+</html>
