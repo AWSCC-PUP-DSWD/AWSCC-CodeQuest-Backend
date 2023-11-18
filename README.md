@@ -28,7 +28,7 @@ Use this template to create your own repository with existing directory structur
 
 4. After creating a repository, copy the repository URL and paste it in our **[CodeQuest Tracker Sheet](https://docs.google.com/spreadsheets/d/1OsXL63ei1HblY7-gXD8uMbSoWdZJlD02mTbrjvcSsNo/edit#gid=0)** in your corresponding row.
 
-    > Note: If you are having trouble with the CodeQuest Tracker Sheet, do not hesitate to DM any AWSCC DSWD officers or email us at awscloudclub.pupmnl.dswd@gmail.com
+    > Note: If you are having trouble with the CodeQuest Tracker Sheet, do not hesitate to directly message any DSWD officers or email us at awscloudclub.pupmnl.dswd@gmail.com
 
 
 5. Finally, clone the repository by clicking the **`Code`** button on the top right side of the repository's main page and clicking the **`Open with GitHub Desktop`** button to redirect to your GitHub Desktop application.
