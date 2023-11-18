@@ -44,11 +44,11 @@ Use this template to create your own repository with existing directory structur
 
 This repository contains the following **main** folders:
 
-1. **backend folder**: consisting of all the files in every day of CodeQuest. (See [The 30-Day Content](#📅-the-30-day-content))
+1. **backend folder**: consisting of all the files in every day of CodeQuest. (See [The 30-Day Content](#-the-30-day-content))
 
 2. **projects folder**: consisting of small tutorial projects in Flask that you can run locally.
 
-3. **submissions folder**: consisting of all the necessary projects the participants need to submit to complete CodeQuest. (See [Submissions](#✉️-submissions))
+3. **submissions folder**: consisting of all the necessary projects the participants need to submit to complete CodeQuest. (See [Submissions](#-submissions))
 
 ---
 
