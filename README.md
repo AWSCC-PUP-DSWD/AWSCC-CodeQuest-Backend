@@ -52,10 +52,11 @@ Use this template to create your own repository with existing directory structur
 |<div align='center'><a href='backend/day-21'><img src='backend/assets/test.png' alt='Blueprints' width='140px'/></a><h4 align='center'><a href='backend/day-21'>Blueprints</a></h4></div> |<div align='center'><a href='backend/day-22'><img src='backend/assets/test.png' alt='Jinja' width='140px'/></a><h4 align='center'><a href='backend/day-22'>Jinja</a></h4></div> |<div align='center'><a href='backend/day-23'><img src='backend/assets/test.png' alt='REST APIs' width='140px'/></a><h4 align='center'><a href='backend/day-23'>REST APIs</a></h4></div> |<div align='center'><a href='backend/day-24'><img src='backend/assets/test.png' alt='Introduction to SQLite' width='140px'/></a><h4 align='center'><a href='backend/day-24'>Introduction to SQLite</a></h4></div> |
 |<div align='center'><a href='backend/day-25'><img src='backend/assets/test.png' alt='Setting up SQLite in Flask' width='140px'/></a><h4 align='center'><a href='backend/day-25'>Setting up SQLite in Flask</a></h4></div> |<div align='center'><a href='backend/day-26'><img src='backend/assets/test.png' alt='Defining Databases' width='140px'/></a><h4 align='center'><a href='backend/day-26'>Defining Databases</a></h4></div> |<div align='center'><a href='backend/day-27'><img src='backend/assets/test.png' alt='CRUD' width='140px'/></a><h4 align='center'><a href='backend/day-27'>CRUD</a></h4></div> |<div align='center'><a href='backend/day-28'><img src='backend/assets/test.png' alt='FINAL PROJECT' width='140px'/></a><h4 align='center'><a href='backend/day-28'>FINAL PROJECT</a></h4></div> |
 
+---
 
 ### ✉️ Submissions
 
-To finish our **CodeQuest: 30 Days of Backend**, you need to submit **3** projects for your completion to be recognized:
+To finish our **CodeQuest: 30 Days of Backend**, you need to submit **3** projects for your completion to be acknowledged:
 
     .
     ├── submission
@@ -63,3 +64,7 @@ To finish our **CodeQuest: 30 Days of Backend**, you need to submit **3** projec
     │   ├── mini-project-02     # mini project 2 (day 15)
     │   ├── final-project       # final project (day 28-30)
     └── ...
+
+> Note: There are exercises / challenges included in some days that you are not required to submit but is encouraged to try to test how much knowledge you've gained each day!
+
+<h1 align='center'>Enjoy coding!~</h1>
