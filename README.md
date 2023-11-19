@@ -80,11 +80,15 @@ Use this template to create your own repository with existing directory structur
 
 We encourage you to share your progress in [📈┊codequest-progress](https://discord.com/channels/1106592546815225878/1175409781540925521) to serve as a motivation for others and to open up discussions and reviews to gain further insights about a particular topic.
 
-> Example:
-**Day**: 11 of Backend
-**Topic**: File Handling
-**Highlights**: I learned how to open a file in Python
-**Attachments**: (optional)
+> *example*:
+>
+> **Day**: 11 of Backend
+>
+>**Topic**: File Handling
+>
+>**Highlights**: I learned how to open a file in Python
+>
+>**Attachments**: (optional)
 
 To finish our **CodeQuest: 30 Days of Backend**, you need to submit **3** projects for your completion to be acknowledged:
 
