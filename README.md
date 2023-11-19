@@ -76,6 +76,19 @@ Use this template to create your own repository with existing directory structur
 
 ### ✉️ Submissions
 
+**CodeQuest** is made to provide participants an immersive, hands-on coding experience by guiding them through the creation of small projects. Every day of CodeQuest contains a particular knowledge that is essential to build the foundations of your backend development skills.
+
+We encourage you to share your progress in [📈┊codequest-progress](https://discord.com/channels/1106592546815225878/1175409781540925521) to serve as a motivation for others and to open up discussions and reviews to gain further insights about a particular topic.
+
+#### Format:
+
+**Day**:
+**Topic**:
+**Highlights**:
+**Attachments**: (optional)
+
+
+
 To finish our **CodeQuest: 30 Days of Backend**, you need to submit **3** projects for your completion to be acknowledged:
 
     .
